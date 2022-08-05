@@ -1,0 +1,74 @@
+thank you for inviting me to attend this meeting.
+I am Caiwenjing Liu, you can call me Vicky. I come from China. 
+Currently, I just graduated from the University of Leeds with a master's and bachelor's degree in electronic and communication engineering in July 2022. 
+I want to find a job in the UK and try to stay here. 
+Because it has a larger platform and international environment, which is why I want to get involved. 
+I am a passionate and positive person who wants to have a successful career in this industry. 
+After studying the job description, I think I have the confidence to handle it and make my contribution.
+
+ 
+ETL Systems
+从客户的角度看待问题
+all look at things from our customers’ perspectives.
+
+graduate test engineer
+ RF & microwave equipment test
+Radiofrequency
+wireless communication 
+
+射频信号发生器是射频、微波测试和开发领域必须用到的一种基本测试仪器
+Rf signal generator is a basic test instrument which must be used in the field of RF and microwave test and development
+
+
+实习经历
+2017-2022
+2020回国实习 2021回英国继续读研究生
+
+实习工作： iflytek
+实习时间：2020 October 2021 August
+
+工作产品：讯飞云 （cloud computing server）
+提供核心网络云端部署服务
+provides core network cloud deployment services
+
+!!工作内容：
+
+负责测试和维护云服务器
+I mainly work for tests and maintain the cloud server
+每次版本迭代后的测试用例
+such as Test log and documents after each version iteration
+可以修改一些简单的bug by using c/c# language，例如返回内容错误，用git上传覆盖
+其他解决不了的交给开发，再复测。
+correct some simple bugs by using c/c# language, such as returning a content error, 
+use Git upload to overwrite 
+the other can not be solved to the development, and then retest.
+
+!!公有云（public cloud）
+检查人机交互界面是不是合理
+test the interface for human and computer 
+检查产品功能实现情况
+test the requirement from the customer can be realised or not 
+产品更新功能后检查是否可以实现功能
+（更新优惠券功能，用脚本多次测试优惠券发放和收回的状态/for loop）
+after the upgrade, check the new function 
+ (such as the voucher function, which can be tested by using the script)
+
+!!私有云（private cloud）
+根据定制客户的需求定制相关的云产品（云硬盘大小/虚机系统）
+Customize cloud products according to customer requirements
+
+
+master project
+this project aims to improve the battery's condition monitoring system. 
+including the battery's internal state estimation such as the SOC and surface temperature. 
+by using the mathematical modelling and estimation using Kalman filter on Matlab 
+also in the lab the optical fibre sensor to do the data collection and calibration 
+
+
+bachelor project
+develop the robotic ankle rehabilitation system 
+
+
+
+
+
